@@ -1,7 +1,7 @@
 <h1 align="center">Minh Duy</h1>
 
 <p align="center">
-  <b>Computer Science Student | C++ Developer | Problem Solver</b><br>
+  <b>Computer Science Student</b><br>
   📍 <i>Ho Chi Minh City, Vietnam</i>
 </p>
 
@@ -11,7 +11,7 @@
 
 ---
 
-### 👨‍💻 Giới thiệu (About Me)
+### 👨‍💻 Giới thiệu
 
 Xin chào! Tôi là **Minh Duy**, sinh viên ngành **Khoa học Máy tính** tại trường **Đại học Công nghệ Thông tin (UIT)**.
 
@@ -22,7 +22,7 @@ Hiện tại, tôi đang tập trung xây dựng nền tảng tư duy lập trì
 
 <br>
 
-### 🔥 Tin tức (News) & Lộ trình
+### 🔥 Mục tiêu
 
 * **[Hiện tại]:** Đang tập trung cao độ nghiên cứu sâu về **C++** và rèn luyện kỹ năng giải thuật toán.
 * **[Mục tiêu ngắn hạn]:** Nắm vững các cấu trúc dữ liệu phức tạp và áp dụng vào các dự án nhỏ (Console App/Tools).
