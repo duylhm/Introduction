@@ -15,10 +15,7 @@
 
 Xin chào! Mình là **Minh Duy**, sinh viên ngành **Khoa học Máy tính** tại trường **Đại học Công nghệ Thông tin (UIT)**.
 
-Hiện tại, mình đang tập trung xây dựng nền tảng tư duy lập trình vững chắc thông qua **C++** và **Cấu trúc dữ liệu & Giải thuật**. Dù chưa xác định một chức danh cụ thể (như AI Engineer hay Web Developer) vào lúc này, tôi tin rằng việc nắm vững "gốc rễ" của khoa học máy tính sẽ giúp tôi linh hoạt và sẵn sàng cho mọi cơ hội công nghệ trong tương lai.
-
-* **Đam mê:** Giải quyết các bài toán logic, Tối ưu hóa code, Tìm hiểu nguyên lý hoạt động của máy tính.
-* **Đang học:** C++, Python, Thuật toán, Tư duy lập trình hệ thống.
+Hiện tại, mình đang tập trung xây dựng nền tảng tư duy lập trình vững chắc thông qua **C++**.
 
 <br>
 
